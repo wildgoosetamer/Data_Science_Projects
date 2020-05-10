@@ -1,7 +1,7 @@
-# Write a Data Science Blog
+# Write a Data Science Blog (Udacity_Project_1)
 
 ## Description
-In this project, I will investigate why certain Airbnb listings are more successful than others. This analysis will focus on Airbnb listings in Boston and Seattle. Estimated revenues of listings will also be used to define the success of a listing. The primary questions that will be answered in this project are:
+In this project, I have investigated why certain Airbnb listings are more successful than others. This analysis focussed on Airbnb listings in Boston and Seattle. Estimated revenues of listings will also be used to define the success of a listing. The primary questions that have been answered upon completion of this project are:
 
 1. How much revenue do Airbnb hosts make?
 2. What are the best types of property to rent?
@@ -11,7 +11,7 @@ In this project, I will investigate why certain Airbnb listings are more success
 
 In addition, several models (Linear Models, XGBoost) were trained to predict the estimated revenues of listings. The results of the models will be used to explore which are the most important factors in achieving higher revenues.
 
-The article detailing the key findings of this project can be found [here](https://medium.com/@joshxinjielee/uncovering-the-secrets-to-higher-airbnb-revenues-6dbf178942af).
+The article detailing the key findings of this project can be found [here].
 
 ## File Descriptions
 1. boston_airbnb_analysis.ipynb: Contains all the analysis for the Boston Airbnb datasets
@@ -38,4 +38,4 @@ Put the data files in the following folder structure
 ## Installations
 Anaconda, Seaborn, Nltk, Re, WordCloud, XGBoost, Shap, Bokeh
 
-To run the section of the code involving Bokeh, you need to get a Geocoding API from google [here](https://developers.google.com/maps/documentation/geocoding/get-api-key)
+To run the section of the code involving Bokeh, there is a need to get a Geocoding API from google [here](https://developers.google.com/maps/documentation/geocoding/get-api-key)
