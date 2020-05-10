@@ -11,7 +11,7 @@ In this project, I have investigated why certain Airbnb listings are more succes
 
 In addition, several models (Linear Models, XGBoost) were trained to predict the estimated revenues of listings. The results of the models will be used to explore which are the most important factors in achieving higher revenues.
 
-The article detailing the key findings of this project can be found [here].
+The article detailing the key findings of this project can be found [here] (https://medium.com/@f20170790/story-behind-the-high-airbnb-reviews-unfurled-c1e094d1a932).
 
 ## File Descriptions
 1. boston_airbnb_analysis.ipynb: Contains all the analysis for the Boston Airbnb datasets
