@@ -1,4 +1,4 @@
-# Write a Data Science Blog (Udacity_Project_1)
+# Write a Data Science Blog (Project_1)
 
 ## Description
 In this project, I have investigated why certain Airbnb listings are more successful than others. This analysis focussed on Airbnb listings in Boston and Seattle. Estimated revenues of listings will also be used to define the success of a listing. The primary questions that have been answered upon completion of this project are:
